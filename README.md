@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1>Hi, I'm Salvador!</a>😄</h1>
 
-<!--
-**salserrano/salserrano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2> 🔐 Cybersecurity Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Python Script</b>
+  - [BlueDucky Payload Generator](https://github.com/salserrano/BlueDucky-Payload-Generator)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+<h2>🤳Connect with me:</h2>
+
+
+[<img align="left" alt="LinkedIn" width="64px" src="https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png" />][linkedin]
+
+
+
+[linkedin]: https://www.linkedin.com/in/salvadorserrano1/
