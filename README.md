@@ -5,6 +5,13 @@
 - <b>Python Script</b>
   - [BlueDucky Payload Generator](https://github.com/salserrano/BlueDucky-Payload-Generator)
 
+<h2>🥇 Competitions</h2>
+
+- <b>NCAE Cyber Games</b>
+  - [NCAE Cyber Games Handbook: Tips from a Former Competitor](https://github.com/salserrano/NCAE-CTF-Handbook)
+  - [CTF Challenge Write-Up: Reverse Engineering and Hidden Secrets](https://github.com/salserrano/NCAE-CTF-Writeup)
+  - [Essential Linux Commands for Defense & Blue Team](https://github.com/salserrano/NCAE-Tips/tree/main)
+
 ---
 <h2>🤳Connect with me:</h2>
 
