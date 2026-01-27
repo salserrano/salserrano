@@ -32,4 +32,4 @@ Checkout some of the exciting projects I've been working on!
 
 
 
-[linkedin]: https://www.linkedin.com/in/salvadorserrano1/
+[linkedin]: https://www.linkedin.com/in/ssalserrano/
