@@ -8,6 +8,7 @@ Checkout some of the exciting projects I've been working on!
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/salserrano/Configuring-On-premises-Active-Directory-within-Azure-VMs)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/salserrano/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
   - [Network File Shares and Permissions](https://github.com/salserrano/Network-File-Shares-and-Permissions)
+  - [Building Intuition for DNS](https://github.com/salserrano/Building-Intuition-for-DNS)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/salserrano/osticket-prereqs)
 
