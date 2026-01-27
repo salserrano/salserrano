@@ -1,15 +1,19 @@
 <h1>Hi, I'm Salvador!</a>😄</h1>
 
-<h2> 🔐 Cybersecurity Projects:</h2>
+Checkout some of the exciting projects I've been working on!
+
+<h2>📶🖥️ Cloud/Network Projects:</h2>
+
+- <b>Networks in Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/salserrano/Configuring-On-premises-Active-Directory-within-Azure-VMs)
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/salserrano/osticket-prereqs)
+
+<h2>🔐🪪 Cloud/Cybersecurity Projects:</h2>
 
 - <b>Python Script</b>
   - [BlueDucky Payload Generator](https://github.com/salserrano/BlueDucky-Payload-Generator)
 
-<h2> 👨‍💻 Information Technology Projects:</h2>
-
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/salserrano/osticket-prereqs)
-  
 <h2>🥇 Competitions</h2>
 
 - <b>NCAE Cyber Games</b>
