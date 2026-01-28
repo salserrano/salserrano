@@ -11,6 +11,8 @@ Checkout some of the exciting projects I've been working on!
   - [Building Intuition for DNS](https://github.com/salserrano/Building-Intuition-for-DNS)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/salserrano/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/salserrano/osTicket-Post-Configuration)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/salserrano/osTicket-Ticket-Lifecycle-Examples)
 
 <h2>🔐🪪 Cloud/Cybersecurity Projects:</h2>
 
