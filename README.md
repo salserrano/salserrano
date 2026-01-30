@@ -1,4 +1,4 @@
-<h1>Hi, I'm Salvador!</a>😄</h1>
+<h1>Hi, I'm Salvador!</a>🙂</h1>
 
 Checkout some of the exciting projects I've been working on!
 
