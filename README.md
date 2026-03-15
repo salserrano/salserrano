@@ -16,6 +16,8 @@ Checkout some of the exciting projects I've been working on!
 
 <h2>🔐🪪 Cloud/Cybersecurity Projects:</h2>
 
+- <b>Case Study</b>
+  - [Reverse Engineering a Gaming Bot License System](https://github.com/salserrano/bot-license-reversing-case-study)
 - <b>Python Script</b>
   - [BlueDucky Payload Generator](https://github.com/salserrano/BlueDucky-Payload-Generator)
 
