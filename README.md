@@ -9,6 +9,10 @@ Checkout some of the exciting projects I've been working on!
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/salserrano/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
   - [Network File Shares and Permissions](https://github.com/salserrano/Network-File-Shares-and-Permissions)
   - [Building Intuition for DNS](https://github.com/salserrano/Building-Intuition-for-DNS)
+
+- <b>UniFi Home Lab (USW-Flex-Mini)</b>
+  - [UniFi OS Server: Prerequisites and Installation](https://github.com/salserrano/unifi-os-server-windows-installation)
+  
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/salserrano/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/salserrano/osTicket-Post-Configuration)
