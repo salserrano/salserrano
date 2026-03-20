@@ -25,7 +25,7 @@ Checkout some of the exciting projects I've been working on!
 - <b>Python Script</b>
   - [BlueDucky Payload Generator](https://github.com/salserrano/BlueDucky-Payload-Generator)
 
-<h2>🥇 Competitions</h2>
+<h2>🥇 Cyber Competitions</h2>
 
 - <b>NCAE Cyber Games</b>
   - [NCAE Cyber Games Handbook: Tips from a Former Competitor](https://github.com/salserrano/NCAE-CTF-Handbook)
