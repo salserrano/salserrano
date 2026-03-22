@@ -12,6 +12,7 @@ Checkout some of the exciting projects I've been working on!
 
 - <b>UniFi Home Lab (USW-Flex-Mini)</b>
   - [UniFi OS Server: Prerequisites and Installation](https://github.com/salserrano/unifi-os-server-windows-installation)
+  - [UniFi OS Server: Post-Installation Configuration](https://github.com/salserrano/unifi-os-server-initial-setup)
   
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/salserrano/osticket-prereqs)
